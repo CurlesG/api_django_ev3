@@ -2,10 +2,10 @@
 
 #### USERS ####
 
-username = curles
+username = curles | 
 password = 1234
 
-username = test
+username = test | 
 password = test
 
 
